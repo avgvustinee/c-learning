@@ -1,0 +1,14 @@
+/Users/dianachapter/newdevelopment/bin/Debug/net9.0/newdevelopment
+/Users/dianachapter/newdevelopment/bin/Debug/net9.0/newdevelopment.deps.json
+/Users/dianachapter/newdevelopment/bin/Debug/net9.0/newdevelopment.runtimeconfig.json
+/Users/dianachapter/newdevelopment/bin/Debug/net9.0/newdevelopment.dll
+/Users/dianachapter/newdevelopment/bin/Debug/net9.0/newdevelopment.pdb
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.AssemblyInfoInputs.cache
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.AssemblyInfo.cs
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.csproj.CoreCompileInputs.cache
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.dll
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/refint/newdevelopment.dll
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.pdb
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/newdevelopment.genruntimeconfig.cache
+/Users/dianachapter/newdevelopment/obj/Debug/net9.0/ref/newdevelopment.dll
